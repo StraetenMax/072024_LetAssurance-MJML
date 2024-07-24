@@ -52,6 +52,20 @@
         <mj-text padding="0" align="left" font-size="16px" font-weight="300" line-height="20px" color="#2D3748"><span style="font-weight:700;text-transform:uppercase;">news ecosup assurance</span> | Juillet 2024        </mj-text>
       </mj-column>
     </mj-section>
+    <mj-section background-color="#EDF2F7" padding="0px">
+      <mj-column width="100%">
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" target="_blank" src="https://i.ibb.co/mz8NctF/let4-E-062024.jpg" href="https://ecosup-assurance.fr/formation-exigence-pedagogie-exception/" alt="Remise des diplômes à Ecosup Campus - lancer de chapeaux"/>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EDF2F7" padding-top="10px" padding-bottom="20px">
+      <mj-column width="88%"> 
+        <mj-text padding-top="5px" padding-bottom="5px" font-size="14px" font-weight="900" line-height="18px" text-transform="uppercase" color="#944694">Édito</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-size="16px" font-weight="500" line-height="20px">Je tiens à féliciter l'ensemble des futurs élèves inscrits pour l'obtention de leurs diplômes ! Qu'il s'agisse du Baccalauréat ou du BTS, c'est une étape importante pour vous et surtout  une période difficile emplit de stress et d'incertitude. C'est enfin derrière vous ! et je suis heureux que pour les futures élèves d'Ecosup Assurance, c'est une année de réussite : 100 % de réussite aux examens pour les élèves inscrits ! Bravo à vous !</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-size="16px" font-weight="500" line-height="20px">Alors je vous souhaite maintenant un repos bien mérité, de belles vacances pour celles et ceux d'entre vous qui partent et plein de courage pour les élèves qui travaille cet été.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-size="16px" font-weight="500" line-height="20px">Nous vous attendons avec impatience pour la rentrée 2024 pour une année riche et studieuse !</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-size="16px" font-weight="500" line-height="20px">Je reste comme toujours à votre disposition.</mj-text>
+      </mj-column>
+    </mj-section>
     <mj-section background-color="#270938" padding="20px 32px">
       <mj-column width="320px">
         <mj-image width="140px" padding="0" border="none" align="center" target="_blank" src="https://i.ibb.co/8K8y4kW/ECOSUP-CAMPUS-Blanc012024.png" href="https://ecosup-campus.com" alt="Logo Ecosup Campus"/>
