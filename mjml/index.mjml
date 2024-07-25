@@ -24,7 +24,7 @@
           <mj-image padding="0" border="0" width="50px" align="right" src="https://i.ibb.co/xYKFMzh/logoESA.jpg" alt="logo ESA (École Supérieure Assurance)"/>
         </mj-column>
         <mj-column width="80%" padding-top="8px" padding-bottom="8px" padding-left="8px" vertical-align="middle">
-          <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300" color="#ffffff">Ecosup Assurance partenaire de l'ESA Paris <em>(École Supérieure d'Assurance)</em></mj-text>
+          <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300" color="#ffffff">Ecosup Assurance partenaire de l'ESA Paris <span style="font-style:italic">(École Supérieure d'Assurance)</span></mj-text>
         </mj-column>
       </mj-group>
     </mj-section>
@@ -54,16 +54,17 @@
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="0px">
       <mj-column width="100%">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" target="_blank" src="https://i.ibb.co/mz8NctF/let4-E-062024.jpg" href="https://ecosup-assurance.fr/formation-exigence-pedagogie-exception/" alt="Remise des diplômes à Ecosup Campus - lancer de chapeaux"/>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" target="_blank" src="https://i.ibb.co/hKyL4Nt/news-Paysage072024.jpg" alt="Tente éclairée et isolée en pleine nature avec portrait de Christian ANNALORO, responsable pédagogique d'Ecosup Assurance"/>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#EDF2F7" padding-top="10px" padding-bottom="20px">
+    <mj-section background-color="#EDF2F7" padding-top="10px" padding-bottom="40px">
       <mj-column width="88%"> 
-        <mj-text padding-top="5px" padding-bottom="5px" font-size="14px" font-weight="900" line-height="18px" text-transform="uppercase" color="#944694">Édito</mj-text>
-        <mj-text padding-top="5px" padding-bottom="0" font-size="16px" font-weight="500" line-height="20px">Je tiens à féliciter l'ensemble des futurs élèves inscrits pour l'obtention de leurs diplômes ! Qu'il s'agisse du Baccalauréat ou du BTS, c'est une étape importante pour vous et surtout  une période difficile emplit de stress et d'incertitude. C'est enfin derrière vous ! et je suis heureux que pour les futures élèves d'Ecosup Assurance, c'est une année de réussite : 100 % de réussite aux examens pour les élèves inscrits ! Bravo à vous !</mj-text>
-        <mj-text padding-top="5px" padding-bottom="0" font-size="16px" font-weight="500" line-height="20px">Alors je vous souhaite maintenant un repos bien mérité, de belles vacances pour celles et ceux d'entre vous qui partent et plein de courage pour les élèves qui travaille cet été.</mj-text>
-        <mj-text padding-top="5px" padding-bottom="0" font-size="16px" font-weight="500" line-height="20px">Nous vous attendons avec impatience pour la rentrée 2024 pour une année riche et studieuse !</mj-text>
-        <mj-text padding-top="5px" padding-bottom="0" font-size="16px" font-weight="500" line-height="20px">Je reste comme toujours à votre disposition.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-size="14px" font-weight="900" line-height="18px" text-transform="uppercase" color="#944694">Édito</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px">Je tiens à féliciter l'ensemble des futurs élèves inscrits pour l'obtention de leur diplôme ! Qu'il s'agisse du Baccalauréat ou du BTS, c'est une étape importante pour vous et surtout une période difficile emplit de stress et d'incertitude. C'est enfin derrière vous ! et je suis heureux que pour les futures élèves d'Ecosup Assurance, c'est une année de réussite : <span style="font-weight:700">100 % de réussite aux examens pour les élèves inscrits</span> ! Bravo à vous !</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px">Alors je vous souhaite maintenant un repos bien mérité, de belles vacances pour celles et ceux d'entre vous qui partent et plein de courage pour les élèves qui travaillent cet été.</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px"><span style="font-weight:700">Nous vous attendons avec impatience pour la rentrée 2024</span> pour une année riche et studieuse !</mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px">Je reste comme toujours à votre disposition.</mj-text>
+        <mj-text padding-bottom="0" font-style="italic" font-size="16px" font-weight="500" line-height="20px">Belles vacances.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding-left="17px" padding-right="17px">
@@ -73,7 +74,7 @@
       <mj-column width="70%" padding="8px">
         <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Actualités Assurance</mj-text>
         <mj-text padding="5px 0 0 0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">L'Assurance vie en juin 2024 : un contexte marqué par des changements réglementaires et des performances en demi-teinte</mj-text>
-        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300"> 
+        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400"> 
           <p style="margin:10px 0;">Le mois de juin a été marqué par <span style="font-weight:700;">deux arrêtés importants</span> en matière d'<span style="font-weight:700">Assurance vie</span> :</p>
           <p style="margin:10px 0;">- Arrêté du 12 juin 2024 <span style="font-weight:700;">améliorant l'exercice du devoir de conseil</span> en ce qui concerne les contrats de capitalisation et certains contrats d'<span style="font-weight:700">Assurance vie</span>...</p>
           <p style="margin:10px 0;">- Arrêté du 12 juin 2024 portant sur <span style="font-weight:700;">l'article L. 112-6 du code des assurances</span>...  </p>
@@ -83,12 +84,12 @@
     </mj-section>
     <mj-section background-color="#EDF2F7" padding-left="17px" padding-right="17px">
       <mj-column width="30%" padding="8px">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/ggdqGfQ/BTSeptembre.jpg" alt="affiche de l'opération Inscription BTS en alternance"/>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/q1JFxSZ/news02-072024.jpg" alt="Groupe d'employés travaillant ensemble dans l'Assurance"/>
       </mj-column>
       <mj-column width="70%" padding="8px">
         <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Formation en Apprentissage</mj-text>
         <mj-text padding="5px 0 0 0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">L'Avenir reste ouvert !!!</mj-text>
-        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300"> 
+        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400"> 
           <p style="margin:10px 0"><span style="font-weight:700">Félicitations pour l'obtention de votre Baccalauréat !</span> Vous êtes intéressé par les métiers de l'Assurance et de la Banque et vous n'avez pas encore trouvé d'école pour septembre. Notre <span style="font-weight:700;">BTS Assurance en apprentissage</span> est l'opportunité que vous cherchez.</p>
           <p style="margin:10px 0"><span style="font-weight:700">En choisissant l'apprentissage</span>, vous pouvez non seulement candidater à notre programme, mais également bénéficier de notre accompagnement dans votre recherche d'entreprise.</p>
           <p style="margin:10px 0">N'attendez plus, <span style="font-weight:700">contactez-nous dès maintenant !</span></p>
@@ -98,12 +99,12 @@
     </mj-section>
     <mj-section background-color="#ffffff" padding-left="17px" padding-right="17px">
       <mj-column width="30%" padding="8px">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/vxJtb0X/let3-042024.jpg" alt="Forum Start'Avenir à Lillenium :e mercredi 29 mai"/>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" target="_blank" src="https://i.ibb.co/dGSYfvF/news03-072024.jpg" alt="Étudiante ayant opté pour la formation en alterrnance"/>
       </mj-column>
       <mj-column width="70%" padding="8px">
-        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Formation apprentissage</mj-text>
+        <mj-text padding="0" align="left" font-size="14px" font-weight="900" color="#944694" line-height="18px" text-transform="uppercase">Formation en apprentissage</mj-text>
         <mj-text padding="5px 0 0 0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Pourquoi choisir son BTS ou Bachelor en Apprentissage</mj-text>
-        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="300"> 
+        <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400"> 
           <ul style="margin:0;padding-left:5px;">
             <li style="padding-top:10px"><span style="font-weight:700">Développer des compétences</span> au plus près des besoins du marché;</li>
             <li style="padding-top:10px"><span style="font-weight:700">Percevoir une rémunération</span> ;</li>
@@ -123,7 +124,7 @@
         <mj-text padding="0" font-size="28px" line-height="32px" font-weight="400" color="#684092">un BTS Assurance et un BACHELOR Chargé de clientèles en Assurance et Banque</mj-text>
       </mj-column>
       <mj-column width="50%" padding="8px"> 
-        <mj-image padding="0" border="none" target="_blank" fluid-on-mobile="true" src="https://i.ibb.co/QC3HJzB/let-T02-052024.jpg" href="https://youtu.be/FGDIyyHhdLo?si=TLl5GkEI3C1HPKEK" alt="Video sur la présentation du BTS assurance et du BACHELOR Chargé de clientèles en Assurance et Banque"/>
+        <mj-image padding="0" border="none" target="_blank" fluid-on-mobile="true" src="https://i.ibb.co/wYJH52k/news-Video072024.jpg" href="https://youtu.be/FGDIyyHhdLo?si=TLl5GkEI3C1HPKEK" alt="Video sur la présentation du BTS assurance et du BACHELOR Chargé de clientèles en Assurance et Banque"/>
       </mj-column>
     </mj-section>
     <mj-section background-color="#270938" padding="20px 32px">
