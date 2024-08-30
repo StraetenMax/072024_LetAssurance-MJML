@@ -3,8 +3,12 @@
   <mj-head>
     <mj-title>Lettre Assurance Étudiant Juillet 2024</mj-title>
     <mj-raw>
-      <meta name='color-scheme' content='light'></meta>
-      <meta name='supported-color-schemes' content='light'></meta>
+      <meta name='color-scheme' content='light'/>
+      <meta name='supported-color-schemes' content='light'/>
+      <meta name="format-detection" content="telephone=no"/>
+      <meta name="format-detection" content="date=no"/>
+      <meta name="format-detection" content="address=no"/>
+      <meta name="format-detection" content="email=no"/>
     </mj-raw>
     <mj-attributes>
       <mj-all font-family="Arial, Helvetica, sans-serif"/>
@@ -54,7 +58,7 @@
     </mj-section>
     <mj-section background-color="#EDF2F7" padding="0px">
       <mj-column width="100%">
-        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" target="_blank" src="https://i.ibb.co/hKyL4Nt/news-Paysage072024.jpg" alt="Tente éclairée et isolée en pleine nature avec portrait de Christian ANNALORO, responsable pédagogique d'Ecosup Assurance"/>
+        <mj-image padding="0" border="none" fluid-on-mobile="true" width="600px" target="_blank" src="https://i.ibb.co/ryGBDvd/news-Bandeau072024.jpg" alt="Tente éclairée et isolée en pleine nature avec portrait de Christian ANNALORO, responsable pédagogique d'Ecosup Assurance"/>
       </mj-column>
     </mj-section>
     <mj-section background-color="#EDF2F7" padding-top="10px" padding-bottom="40px">
@@ -106,12 +110,12 @@
         <mj-text padding="5px 0 0 0" align="left" font-size="20px" font-weight="700" line-height="24px" color="#684092">Pourquoi choisir son BTS ou Bachelor en Apprentissage</mj-text>
         <mj-text padding="0" font-size="16px" line-height="20px" font-weight="400"> 
           <ul style="margin:0;padding-left:5px;">
-            <li style="padding-top:10px"><span style="font-weight:700">Développer des compétences</span> au plus près des besoins du marché;</li>
-            <li style="padding-top:10px"><span style="font-weight:700">Percevoir une rémunération</span> ;</li>
-            <li style="padding-top:10px">Ajouter une expérience professionnelle appréciée à son CV ;</li>
-            <li style="padding-top:10px">Bénéficier d'un tremplin à l'embauche ;</li>
-            <li style="padding-top:10px"><span style="font-weight:700">Financer sa formation</span> ;</li>
-            <li style="padding-top:10px"><span style="font-weight:700">Obtenir un diplôme</span> ;</li>
+            <li style="padding-top:10px"><span style="font-weight:700">Développer des compétences</span> au plus près des besoins du marché.</li>
+            <li style="padding-top:10px"><span style="font-weight:700">Percevoir une rémunération</span>.</li>
+            <li style="padding-top:10px">Ajouter une expérience professionnelle appréciée à son CV.</li>
+            <li style="padding-top:10px">Bénéficier d'un tremplin à l'embauche.</li>
+            <li style="padding-top:10px"><span style="font-weight:700">Financer sa formation</span>.</li>
+            <li style="padding-top:10px"><span style="font-weight:700">Obtenir un diplôme</span>.</li>
             <li style="padding-top:10px">Bénéficier d'aides supplémentaires au transport, à l'hébergement et à la restauration.</li>
           </ul>
         </mj-text>
